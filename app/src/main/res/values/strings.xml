@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Meal rater</string>
+    <string name="dish_label">Dish:</string>
+    <string name="restaurant_label">Restaurant:</string>
+    <string name="rating_label">Rating: %s</string>
+
+</resources>
